@@ -6,98 +6,98 @@
         jumboMode="true"
         revision="23.0.2"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_98a74b17567c06df80a231a407415a2cff9be890.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_98a74b17567c06df80a231a407415a2cff9be890\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_eef2967867ffb655d52f2b936c2de2c309a0c4a7.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_eef2967867ffb655d52f2b936c2de2c309a0c4a7\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_bf65b0e385cd0c57098b6c7eacc39b558b3d82df.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_bf65b0e385cd0c57098b6c7eacc39b558b3d82df\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.1\8c94ae916de454be497782505e3e6fd437a28b95\firebase-client-android-2.5.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="8c94ae916de454be497782505e3e6fd437a28b95">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.1_f962e5340e33088c3cecaf01ca4cf7f5efe33b41.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.1_f962e5340e33088c3cecaf01ca4cf7f5efe33b41\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.1\11ea7eeda00b1bb92accba250ee7c8740bdebc19\firebase-client-jvm-2.5.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="11ea7eeda00b1bb92accba250ee7c8740bdebc19">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.1_c5ca1ff3c47e9ac7500de167969052dbefe1b345.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.1_c5ca1ff3c47e9ac7500de167969052dbefe1b345\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_f731f881366440a8e7d21a6e656ea83602e7bed2.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_f731f881366440a8e7d21a6e656ea83602e7bed2\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_c7c273a1e5d3b8f24cdb5592486d3e042d49099d.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_c7c273a1e5d3b8f24cdb5592486d3e042d49099d\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_e4e6f62b81ccd76afc365ba5922c29203c6c604d.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_e4e6f62b81ccd76afc365ba5922c29203c6c604d\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_1cdb4c199b4926c5a1ab412d625c5408c6e138d1.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_1cdb4c199b4926c5a1ab412d625c5408c6e138d1\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="26d014764ca9cca83ef894801ef270d324c291a7">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\instant-run_857fdd0f354c36f1c692aaa6cdbb853051cd2a90.jar" />
+        sha1="b8125672764fdedc16b3b15fdd8ebb94ef324042">
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_857fdd0f354c36f1c692aaa6cdbb853051cd2a90\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_cc6a6099f176ff9bbbd2b1d438e56ba381d41d77.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_cc6a6099f176ff9bbbd2b1d438e56ba381d41d77\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_f31443cfddf01d39e13c074452738b66eb1f934b.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_f31443cfddf01d39e13c074452738b66eb1f934b\classes.dex" />
     </item>
     <item
         jar="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="b3d99d66c16c6aea6df08104740f778540c8fb32">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f1b06cd9d6a2ddd2ccff277243fcdf35f9076e60.jar" />
+        sha1="c225cd253f1ab35b4f34ab8766a0c83e6623ec20">
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1b06cd9d6a2ddd2ccff277243fcdf35f9076e60\classes.dex" />
     </item>
     <item
         jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_aa262bcce2e975a1b8f862dc8d81d3e8a3fc0798.jar" />
+        <dex dex="E:\Android\AndroidStudioProjects\SpeechToTextSpeechDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_aa262bcce2e975a1b8f862dc8d81d3e8a3fc0798\classes.dex" />
     </item>
 
 </items>
